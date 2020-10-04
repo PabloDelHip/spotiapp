@@ -1,3 +1,7 @@
+# Descripción
+
+Aplicación SPA que simula Spotify, consumiendo la API de Spotify 
+
 # Spotiapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
